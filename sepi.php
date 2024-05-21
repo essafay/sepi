@@ -5,7 +5,7 @@ $cookiesFilePath = 'cokAkun.txt';
 $cookies = readCookiesFromFile($cookiesFilePath);
 $chatId = "160073776";
 $botToken = "6832846669:AAEfZ839Br7nqeCt-va0ZO3FCfidimcIb34";
-$delay = "2"; // ATUR DELAY LOOPING SESUKA LU DISINI
+$delay = "5"; // ATUR DELAY LOOPING SESUKA LU DISINI
 
 
 cekAkun();
